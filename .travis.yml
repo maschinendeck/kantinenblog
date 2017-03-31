@@ -1,0 +1,8 @@
+language: generic
+env:
+  global:
+  - ENCRYPTION_LABEL: "af05534c7e9c"
+before_install:
+  - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19-64bit.deb
+  - sudo dpkg -i hugo_0.19-64bit.deb
+script: ./build.sh
