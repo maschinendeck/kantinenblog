@@ -8,6 +8,7 @@ title = "Kantinendeck"
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "spf13"
+relativeURLs="true"
 
 [params]
 	name = "John Doe"
