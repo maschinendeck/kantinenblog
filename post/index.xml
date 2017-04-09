@@ -2,29 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kantinendeck</title>
-    <link>https://maschinendeck.github.io/kantinenblog/post/index.xml</link>
+    <link>http://www.maschinendeck.org/kantinenblog/post/index.xml</link>
     <description>Recent content in Posts on Kantinendeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Apr 2017 01:24:48 +0200</lastBuildDate>
-    <atom:link href="https://maschinendeck.github.io/kantinenblog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.maschinendeck.org/kantinenblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Palak Paneer</title>
-      <link>https://maschinendeck.github.io/kantinenblog/post/palak-paneer/</link>
+      <link>http://www.maschinendeck.org/kantinenblog/post/palak-paneer/</link>
       <pubDate>Sat, 01 Apr 2017 01:24:48 +0200</pubDate>
       
-      <guid>https://maschinendeck.github.io/kantinenblog/post/palak-paneer/</guid>
-      <description>&lt;p&gt;asdk asld&lt;/p&gt;
+      <guid>http://www.maschinendeck.org/kantinenblog/post/palak-paneer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Palak_paneer&#34;&gt;Palak Paneer&lt;/a&gt; ist ein indisches Curry, mit Paneer, Spinat und Tomaten.
+Caveat emptor: statt Paneer haben wir der Einfachheit halber Feta genommen.&lt;/p&gt;
+
+&lt;p&gt;Menge: 4 Portionen&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.maschinendeck.org/kantinenblog/images/palak-paneer.jpg&#34; alt=&#34;Palak Paneer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zutaten:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4 EL Pflanzenöl&lt;/li&gt;
+&lt;li&gt;1 Feta, gewürfelt&lt;/li&gt;
+&lt;li&gt;200 g Zwiebeln, fein geschnitten&lt;/li&gt;
+&lt;li&gt;1-2 Knoblauchzehen, fein geschnitten&lt;/li&gt;
+&lt;li&gt;1 TL Kreuzkümmel, ganz&lt;/li&gt;
+&lt;li&gt;4 Tomaten, fein gehackt&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; TL Chilipulver oder 2-3 frische Chilis&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; TL Kurkuma&lt;/li&gt;
+&lt;li&gt;1 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; TL Salz&lt;/li&gt;
+&lt;li&gt;350 g Spinat, fein gehackt&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; TL Korianderpulver&lt;/li&gt;
+&lt;li&gt;2 cm Ingwer, frischer, in Streifen geschnitten&lt;/li&gt;
+&lt;li&gt;etwas Zitronensaft&lt;/li&gt;
+&lt;li&gt;Reis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zubereitung:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Öl in der Pfanne erhitzen und Kreuzkümmel leicht anroesten. Zwiebeln, Knoblauch und Chilis dazugeben und glasig anbraten.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tomaten, Ingwer, Salz, Kurkuma dazugeben und Tomaten für 5 Minuten einkochen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Den Spinat dazugeben und ebenfalls einkochen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Feta unterheben.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mit Koriander und Zitronensaft abschmecken.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Dazu Reis servieren und etwas Baguette reichen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vegetarisches Mafé</title>
-      <link>https://maschinendeck.github.io/kantinenblog/post/vegetarisches-mafe/</link>
+      <link>http://www.maschinendeck.org/kantinenblog/post/vegetarisches-mafe/</link>
       <pubDate>Sat, 01 Apr 2017 01:24:48 +0200</pubDate>
       
-      <guid>https://maschinendeck.github.io/kantinenblog/post/vegetarisches-mafe/</guid>
+      <guid>http://www.maschinendeck.org/kantinenblog/post/vegetarisches-mafe/</guid>
       <description>&lt;p&gt;asdk asld&lt;/p&gt;
 </description>
     </item>

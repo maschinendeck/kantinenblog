@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Kantinendeck</title>
-    <link>https://maschinendeck.github.io/kantinenblog/about/index.xml</link>
+    <link>http://www.maschinendeck.org/kantinenblog/about/index.xml</link>
     <description>Recent content in Abouts on Kantinendeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
-    <atom:link href="https://maschinendeck.github.io/kantinenblog/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.maschinendeck.org/kantinenblog/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://maschinendeck.github.io/kantinenblog/about/</link>
+      <link>http://www.maschinendeck.org/kantinenblog/about/</link>
       <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
       
-      <guid>https://maschinendeck.github.io/kantinenblog/about/</guid>
+      <guid>http://www.maschinendeck.org/kantinenblog/about/</guid>
       <description>
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
