@@ -42,7 +42,7 @@ cd ..
 hugo -b http://www.maschinendeck.org/kantinenblog/ -d kantinenblog || true
 
 ls -al
-ls -al gh-pages
+ls -al kantinenblog
 
 cd kantinenblog
 
