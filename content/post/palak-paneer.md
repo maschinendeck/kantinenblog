@@ -9,7 +9,7 @@ Caveat emptor: statt Paneer haben wir der Einfachheit halber Feta genommen.
 
 Menge: 4 Portionen
 
-![Palak Paneer](/images/palak-paneer.jpg)
+![Palak Paneer](../../images/palak-paneer.jpg)
 
 Zutaten:
 
