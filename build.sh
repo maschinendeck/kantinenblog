@@ -19,7 +19,7 @@ ssh-add deploy_key
 git config --global user.name "Travis CI"
 git config --global user.email "ci@maschinendeck.org"
 
-git clone git@github.com:maschinendeck/kantinenblog.git gh-pages
+git clone git@github.com:maschinendeck/kantinenblog.git
 
 
 
