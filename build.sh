@@ -39,7 +39,7 @@ cd ..
 
 # Build site
 
-hugo -b https://maschinendeck.github.io/kantinenblog/ -d gh-pages || true
+hugo -b http://www.maschinendeck.org/kantinenblog// -d gh-pages || true
 
 ls -al
 ls -al gh-pages
