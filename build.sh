@@ -39,12 +39,12 @@ cd ..
 
 # Build site
 
-hugo -b http://www.maschinendeck.org/kantinenblog// -d gh-pages || true
+hugo -b http://www.maschinendeck.org/kantinenblog/ -d gh-pages || true
 
 ls -al
 ls -al gh-pages
 
-rsync -av gh-pages/* kantinenblog
+cd gh-pages
 
 git add --all .
 git commit -m "Built gh-pages"
