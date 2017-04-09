@@ -27,7 +27,7 @@ git clone git@github.com:maschinendeck/kantinenblog.git gh-pages
 echo "Build"
 
 
-# Final site is in kantinenblog/gh-pages
+# Final site is in kantinenblog
 cd kantinenblog
 git checkout gh-pages
 
@@ -39,12 +39,12 @@ cd ..
 
 # Build site
 
-hugo -b http://www.maschinendeck.org/kantinenblog/ -d gh-pages || true
+hugo -b http://www.maschinendeck.org/kantinenblog/ -d kantinenblog || true
 
 ls -al
 ls -al gh-pages
 
-cd gh-pages
+cd kantinenblog
 
 git add --all .
 git commit -m "Built gh-pages"
