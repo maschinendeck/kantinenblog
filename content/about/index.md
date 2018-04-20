@@ -4,4 +4,4 @@ title = "About"
 hidden = true
 +++
 
-<img src="../../images/cat.jpg" />
+<img src="../images/cat.jpg" />
