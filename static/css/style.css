@@ -180,8 +180,15 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; margin-bottom: 20px; }
-li	{ list-style-type:circle; list-style-position:inside; }
+ul {
+	margin:0;
+	padding:0;
+	margin-bottom: 20px;
+}
+
+li {
+	list-style-position:inside;
+}
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
