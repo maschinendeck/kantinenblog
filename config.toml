@@ -7,4 +7,5 @@ title = "Kantinendeck"
 
 # baseurl = "https://example.org/"
 # themesDir = "../.."
-# relativeURLs="true"
+
+relativeURLs="true"
