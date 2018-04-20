@@ -5,9 +5,19 @@
     <link>http://www.maschinendeck.org/kantinenblog/index.xml</link>
     <description>Recent content on Kantinendeck</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Fri, 20 Apr 2018 10:05:48 +0200</lastBuildDate>
     <atom:link href="http://www.maschinendeck.org/kantinenblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://www.maschinendeck.org/kantinenblog/about/</link>
+      <pubDate>Fri, 20 Apr 2018 10:05:48 +0200</pubDate>
+      
+      <guid>http://www.maschinendeck.org/kantinenblog/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/cat.jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Plomeek Soup</title>
@@ -110,26 +120,6 @@ Caveat emptor: statt Paneer haben wir der Einfachheit halber Feta genommen.&lt;/
       
       <guid>http://www.maschinendeck.org/kantinenblog/post/vegetarisches-mafe/</guid>
       <description>&lt;p&gt;asdk asld&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.maschinendeck.org/kantinenblog/about/</link>
-      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
-      
-      <guid>http://www.maschinendeck.org/kantinenblog/about/</guid>
-      <description>
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;lorem-ipsum-dolor&#34;&gt;Lorem ipsum dolor.&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.&lt;/p&gt;
 </description>
     </item>
     
